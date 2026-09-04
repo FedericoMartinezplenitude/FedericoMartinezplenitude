@@ -83,12 +83,7 @@ Se o prompt não funcionar de primeira, **não é bug, é iteração**. 😎
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=FedericoMartinezplenitude&show_icons=true&hide_border=true&title_color=6C63FF&icon_color=00C9A7&text_color=ffffff&bg_color=00000000" width="48%" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FedericoMartinezplenitude&layout=compact&hide_border=true&title_color=6C63FF&text_color=ffffff&bg_color=00000000" width="38%" alt="Top Languages"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=FedericoMartinezplenitude&hide_border=true&background=0D1117&ring=6C63FF&fire=00C9A7&currStreakLabel=ffffff" width="60%" alt="GitHub Streak"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=FedericoMartinezplenitude&theme=radical&no-frame=true&row=1&column=6" width="90%" alt="Trophies"/>
 
 ![Visualizações do perfil](https://komarev.com/ghpvc/?username=FedericoMartinezplenitude&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=6C63FF&style=for-the-badge)
 

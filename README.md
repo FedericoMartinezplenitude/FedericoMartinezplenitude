@@ -1,34 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=220&section=header&text=TI%20JR%20%40%20PLENITUDE&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Prompt%20Engineer%20nas%20horas%20vagas&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=200&section=header&text=TI%20JR%20%40%20PLENITUDE&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=N%C3%B3is+desenrola+dos+prompt+%F0%9F%98%8E;IA+trava%2C+eu+destravo+%F0%9F%94%A7;Prompt+ruim+n%C3%A3o+sobrevive+aqui+%F0%9F%94%A5;TI+Jr+hoje%2C+Prompt+Master+sempre+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=TI+Jr;Plenitude;Prompt+Engineering;JavaScript;Python;SQL;UI+%26+UX" alt="Typing SVG" />
 
 <br/>
 
 ![Cargo](https://img.shields.io/badge/cargo-TI%20Jr-6C63FF?style=for-the-badge)
 ![Empresa](https://img.shields.io/badge/empresa-Plenitude-00C9A7?style=for-the-badge)
 ![Especialidade](https://img.shields.io/badge/especialidade-Prompt%20Engineering-FFD23F?style=for-the-badge)
-![Status](https://img.shields.io/badge/status-desenrolando-success?style=for-the-badge)
 
 </div>
 
 <br/>
 
-## 👋 Sobre mim
+## Sobre mim
 
-Sou **Ti Jr, da Plenitude** — enquanto uns travam de boa na frente da IA, eu já testei três prompts diferentes e resolvi antes do café esfriar.
+TI Jr na Plenitude. Trabalho com suporte técnico, automação de processos e engenharia de prompt aplicada a IA generativa.
 
-Não sei se é sorte ou técnica, mas toda vez que a IA "não entende", eu reescrevo o prompt e ela entende. Basicamente meu superpoder no setor de TI.
+## O que eu faço
 
-## 🧠 O que eu resolvo
+- Suporte técnico
+- Automação de processos com IA
+- Engenharia de prompt (ChatGPT, Claude)
+- Organização de documentos, planilhas e processos
 
-- 🔧 Suporte técnico que parecia impossível → **resolvido com o prompt certo**
-- 🤖 Automação de tarefas repetitivas usando IA
-- 📄 Documento, planilha ou processo que "ninguém entendia" → clareza total
-- 🧩 Prompt entra torto, sai redondo
-
-## 🛠️ No que eu manjo
+## Habilidades
 
 **Linguagens & Design**
 
@@ -37,49 +34,13 @@ Não sei se é sorte ou técnica, mas toda vez que a IA "não entende", eu reesc
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**IA & Prompt**
+**IA & Ferramentas**
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📟 Simulando meu dia a dia
-
-```bash
-$ whoami
-Ti_Jr@Plenitude
-
-$ status --setor=TI
-🟢 online | resolvendo com IA
-
-$ ./desenrola.sh --prompt "problema que ninguém quis pegar"
-> analisando o problema...
-> ajustando o prompt...
-> testando de novo...
-> ✅ resolvido. Nóis desenrola.
-```
-
-## 📊 Nível de desenrolo
-
-| Métrica                            | Valor        |
-|-------------------------------------|--------------|
-| Prompts escritos                    | 9999+        |
-| Problemas resolvidos com 1 prompt   | ♾️           |
-| Café consumido                      | 🔴🔴🔴🔴🔴   |
-| Paciência com IA travando           | 🟨🟨⬜⬜⬜   |
-| Nível de desenrolo                  | **MAX**      |
-
-<details>
-<summary>🃏 Clica aqui que tem segredo</summary>
-<br/>
-
-Se o prompt não funcionar de primeira, **não é bug, é iteração**. 😎
-
-</details>
-
-<br/>
-
-## 📈 Estatísticas de verdade (ao vivo)
+## Estatísticas
 
 <div align="center">
 
@@ -89,7 +50,7 @@ Se o prompt não funcionar de primeira, **não é bug, é iteração**. 😎
 
 </div>
 
-### 🐍 A cobrinha comendo meus commits
+### Cobrinha de contribuições
 
 <div align="center">
 
@@ -97,14 +58,12 @@ Se o prompt não funcionar de primeira, **não é bug, é iteração**. 😎
 
 </div>
 
-> ⚙️ Essa cobrinha só aparece depois de 1 passo extra (rapidinho): coloca o arquivo `snake.yml` que te mandei em `.github/workflows/snake.yml`, no seu repositório `FedericoMartinezplenitude/FedericoMartinezplenitude`, faz commit, e o GitHub gera a animação sozinho todo dia.
+> Essa animação só aparece depois de 1 passo extra: coloca o arquivo `snake.yml` em `.github/workflows/snake.yml` no repositório `FedericoMartinezplenitude/FedericoMartinezplenitude`, faz commit, e o GitHub gera sozinho todo dia.
 
 <br/>
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:6C63FF&height=120&section=footer" width="100%"/>
-
-**Feito com prompt bem escrito, café e um pouco de teimosia.** ⚡
 
 </div>
